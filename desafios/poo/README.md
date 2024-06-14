@@ -14,7 +14,7 @@ Navegador na Internet | exibirPagina(String url), adicionarNovaAba(),atualizarPa
 
 
 ## Diagrama UML: Funcionalidades do iPhone 
-![diagrama-iphone](https://github.com/cairessandy/trilha-java-basico/assets/171987133/b4a909c8-9bcd-4e67-8842-c0f6c77fb3c8)
+![diagrama-iphone-uml](https://github.com/cairessandy/trilha-java-basico/assets/171987133/5337fa98-1984-4b84-af06-51e9bf1817e4)
 
 ### Referências
 - [Lançamento do iPhone 2017](https://www.youtube.com/watch?v=9ou608QQRq8)
